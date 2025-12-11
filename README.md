@@ -60,13 +60,16 @@ The Tableau dashboards were designed to answer questions a client might have abo
    - Which neighborhoods or ZIP codes have the highest and lowest prices?  
    - How does price vary by room type?
 
+<img width="1289" height="761" alt="Screenshot 2025-12-10 220322" src="https://github.com/user-attachments/assets/44e0df63-c0b8-439c-82e7-9a377f35c207" />
 
 2. **Room Type Insights**
    - Which types of Rentals (number of bedrooms) are most common?  
    - How do different room types affect pricing?
+<img width="705" height="351" alt="Screenshot 2025-12-10 220643" src="https://github.com/user-attachments/assets/81b62ff1-587b-46d0-b8ed-f7ffde90ef70" />
 
 3. **Availability & Seasonality**
    - Which listings are available year-round vs. seasonally?  
+<img width="1309" height="750" alt="Screenshot 2025-12-10 220724" src="https://github.com/user-attachments/assets/04cde943-f941-4347-81ea-4d581e63394e" />
 
 These questions provide a **business-oriented framework** for your Tableau dashboards, ensuring the visualizations help the client make **data-driven decisions** about pricing, marketing, and property management.
 
